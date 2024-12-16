@@ -1,0 +1,186 @@
+.top_bar{
+    background-color:#212529 ;
+    height: 70px;
+    padding:0 80px;
+    display: flex;
+    flex-direction: row;
+    
+}
+.logo{
+    color: #212529;
+    display: inline-block;
+}
+.main_logo{
+    width: 100px;
+    height: 35px;
+    margin-top:19px;
+}
+.video{
+    margin-top: 16px;
+}
+.topbar_option{
+    display: flex;
+    flex-direction: row;
+    color: #fff;
+    width:100% ;
+    font-size: 20px;
+}
+.top_bar_search{
+        width: 20px;
+}
+.model_choice{
+    height: 800px;
+    text-align: center;
+}
+.motorcycle{
+    color: #fff;
+    background-color: #0001a0;
+    opacity: .8;
+    font-size: 16px;
+    font-family: montserrant, sans-serif;
+    margin: 0 5px;
+    padding: 7px 35px;
+    border-radius: 60px;
+    border: 1px solid rgb(181, 175, 175);
+    height:35px;
+}
+.motorcycle:hover{
+    opacity: 1;
+    border: 1px solid #0001a0;
+    height: 35px;
+
+
+}
+.scooter{
+    color: black;
+    opacity: 0.4; ;
+    border: 1px solid black;
+    background-color: white;
+    font-size: 16px;
+    font-family: montserrant, sans-serif;
+    margin: 0 5px;
+    padding: 7px 35px;
+    border-radius: 60px;
+    height: 35px;
+}
+.scooter:hover{
+    opacity: 1;
+    border: 1px solid #0001a0;
+    color: #0001a0;
+}
+.series{
+    align-items: center;  
+}
+.r3review{
+    color: #0002d7;
+    font-size: 24px;
+    font-family: sans-ser;
+    font-weight: bold;
+    margin: 20px;
+}
+.r3subreview{
+    color: #000000;
+    font-size: 12px;
+    font-family: sans-serif;
+    margin: 20px;
+}
+.know_more{
+    background-color: #0002df;
+    color: #fff;
+    border: none;
+    margin: 20px;
+}
+.r_series{
+    display: inline-block;
+    margin: 2%;
+}
+.r_series_detail_main{
+   display: flex;
+    flex-direction: row;
+}
+.mt_series{
+    display: inline-block;
+    margin: 2%;
+}
+.fz_series{
+    display: inline-block;
+    margin: 2%;
+}
+.r_series_details{
+    text-align: start;
+    margin-left: 2%;
+
+
+}
+.r1_pic1{
+    width: 350px;
+    height: 500px;
+    margin-left: 10%;
+    
+}
+.r3{
+    width: 230px;
+}
+.r1_pic2{
+    width: 350px;
+    height: 520px;
+    margin-left: 10%;
+    
+}
+.text_yamaha_events{
+   color: #fff;
+   writing-mode: vertical-lr;
+    
+}
+.yamaha_vertical{
+    width: 217px;
+    height: 960px;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    align-items: center;
+}
+.yamaha_second_video{
+    
+    height: 100%;
+    width: 100%;
+    
+    
+}
+.yamaha_vertical_second{
+    display: flex;
+    flex-direction: row;
+    background-color: beige;
+    width: 100%;
+    height: 100%;
+}
+.new_update{
+    color: #000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 44.465px;
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: .5rem;
+    line-height: 1.2;
+}
+.new_update_image{
+    
+    vertical-align: middle;
+    margin: 0 0 24px 0;
+}
+.new_first_img{
+    width: 100%;
+    height: 100%;
+}
+.new_second_img{
+    width: 100%;
+    height: 100%;
+}
+.new_update_second_img{
+    
+
+}
+
